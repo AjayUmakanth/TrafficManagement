@@ -1,0 +1,5 @@
+PROJECT DESCRIPTION:
+
+The Advanced Traffic Management System (ATMS) field is a primary subfield within the Intelligent Transportation System (ITS) domain. The ATMS view is a top-down management perspective that integrates technology primarily to improve the flow of vehicle traffic and improve safety.
+We have implemented the backend system for traffic management in java. This code can be run in each traffic signal to improve traffic flow and reduce waiting time in each signal.Each signal is connected to another signal and thus we can know the status of the incoming traffic from different signals.
+Thus simulating a whole traffic network.We have shown the simulation of one traffic singal and thus we show the time allocated to each entry point based on density of traffic in that point.
